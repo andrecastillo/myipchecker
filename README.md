@@ -1,0 +1,1 @@
+Just a little script that checks for my public IP address and then emails me it when / if it changes.
