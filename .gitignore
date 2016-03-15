@@ -1,7 +1,13 @@
 # ignore files and folders in here
 
-Vagrantfile
-bootstrap.sh
-*.iml
+# directories
 .vagrant/
 .idea/
+
+# files
+.gitignore
+bootstrap.sh
+Vagrantfile
+
+# wildcards
+*.iml
