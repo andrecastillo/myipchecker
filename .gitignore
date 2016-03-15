@@ -1,0 +1,7 @@
+# ignore files and folders in here
+
+Vagrantfile
+bootstrap.sh
+*.iml
+.vagrant/
+.idea/
